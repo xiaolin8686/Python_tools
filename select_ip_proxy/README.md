@@ -18,10 +18,10 @@
 ## 参数
 
 ~~~
-usage: select_ip_proxy [-h] [-i IP] [-p PORT]
+usage: select_ip_proxy.exe [-h] [-i IP] [-p PORT]
 
 该工具用于判断 IP 地址以及 IP 地址的所属国家。可用于判断出网 IP 以及代理 IP 地址信息；消息来源为站长之家(ip.chinaz.com)
---https://github.com/xiaolin8686/Python_tools/
+下载地址：https://github.com/xiaolin8686/Python_tools/tree/main/select_ip_proxy
 
 options:
   -h, --help            show this help message and exit
