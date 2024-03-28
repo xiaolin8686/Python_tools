@@ -3,9 +3,13 @@
 ## 出网/代理查询工具：select_ip_proxy
 
 ​	用于查询出网IP地址，可用于查询IP物理地址；可用于验证代理服务器是否可用
+
 ​	IP信息获取来源：httpbin.org
+
 ​	物理地址数据来源：ip.chinaz.com
+
 ​	使用方法：https://github.com/xiaolin8686/Python_tools/blob/main/select_ip_proxy/README.md
+
 ​	下载地址：[Windows 版](https://github.com/xiaolin8686/Python_tools/releases/download/V1.0.0/select_ip_proxy_win.exe)				[Linux 版](https://github.com/xiaolin8686/Python_tools/releases/download/V1.0.0/select_ip_proxy_linux)
 
 ## 免费代理抓取工具：find_proxy
