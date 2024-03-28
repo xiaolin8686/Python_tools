@@ -18,7 +18,6 @@
 
 ​	使用方法：https://github.com/xiaolin8686/Python_tools/tree/main/find_proxy/README.md
 
-​	使用方法：https://github.com/xiaolin8686/Python_tools/tree/main/find_proxy/README.md
 
 ## 本地代理工具：python-http
 
