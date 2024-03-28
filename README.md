@@ -17,3 +17,11 @@
 ​	数据来源：kuaidaili.com
 
 ​	使用方法：https://github.com/xiaolin8686/Python_tools/tree/main/find_proxy/README.md
+
+​	使用方法：https://github.com/xiaolin8686/Python_tools/tree/main/find_proxy/README.md
+
+## 本地代理工具：python-http
+
+​	用于搭建临时 http 服务，代理本地目录，实现文件共享功能
+
+​	使用方法：https://github.com/xiaolin8686/Python_tools/tree/main/python_http/README.md
