@@ -36,7 +36,7 @@ options:
 ### 指定端口
 
 ~~~bash
-python-http -p 7893
+python-http -p [本地端口]
 ~~~
 
 <img src="图片文件/image-20240328124845342.png" alt="image-20240328124845342" style="zoom: 50%;" />
