@@ -10,6 +10,7 @@
 
 ​	使用方法：https://github.com/xiaolin8686/Python_tools/blob/main/select_ip_proxy/README.md
 
+  [Windows版](https://github.com/xiaolin8686/Python_tools/releases/download/V1.0.0/select_ip_proxy_win.exe)
 ## 免费代理抓取工具：find_proxy
 
 ​	用于抓取免费可用代理，可抓取国内|国外代理服务器
