@@ -1,11 +1,11 @@
 # python-http
 
 >@模块功能 : 本地代理工具
-
+>
 >@开发环境 : Python3.10
-
+>
 >@开发平台 : Pycharm
-
+>
 >@注意事项 : 需要联网
 
 ## 工具介绍
@@ -31,7 +31,7 @@ options:
 
 ### 直接运行
 
-<img src="图片文件/image-20240328124749701.png" alt="image-20240328124749701" style="zoom:67%;" />
+<img src="图片文件/image-20240328124749701.png" alt="image-20240328124749701" style="zoom: 50%;" />
 
 ### 指定端口
 
@@ -39,5 +39,5 @@ options:
 python-http -p 7893
 ~~~
 
-<img src="图片文件/image-20240328124845342.png" alt="image-20240328124845342" style="zoom:67%;" />
+<img src="图片文件/image-20240328124845342.png" alt="image-20240328124845342" style="zoom: 50%;" />
 
