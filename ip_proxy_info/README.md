@@ -22,7 +22,7 @@
 usage: ip_proxy_info.exe [-h] [-i] [-p]
 
 该工具用于判断 IP 地址以及 IP 地址的所属国家。可用于查询出网 IP 以及代理 IP 地址信息；
-使用文档：https://github.com/xiaolin8686/Python_tools/tree/main/ip_proxy_info
+使用文档：https://github.com/xiaolin8686/Python_tools/edit/main/ip_proxy_info/README.md
 
 options:
   -h, --help    show this help message and exit
