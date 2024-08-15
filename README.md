@@ -1,5 +1,15 @@
 # Python 小工具
 
+## Python3.10一键部署
+
+~~~bash
+wget https://github.com/xiaolin8686/Python_tools/releases/download/V1.0.0/python.tar.gz
+tar -zxvf python.tar.gz
+cd python
+chmod +x init.sh
+bash init.sh
+~~~
+
 ## 出网/代理查询工具：ip_proxy_info
 
 &nbsp;&nbsp;&nbsp;&nbsp;用于查询出网IP地址，可用于查询IP物理地址；可用于验证代理服务器是否可用
