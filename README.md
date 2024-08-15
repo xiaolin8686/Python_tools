@@ -3,6 +3,7 @@
 ## Python3.10一键部署
 
 ~~~bash
+# 如果下载不了的话，需要开启代理，或者手动下载
 wget https://github.com/xiaolin8686/Python_tools/releases/download/V1.0.0/python.tar.gz
 tar -zxvf python.tar.gz
 cd python
